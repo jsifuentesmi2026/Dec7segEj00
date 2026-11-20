@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     481210298958320641       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "JSM Dec 7 Seg"      # Project title
+  title:        "JSM Decoder 7 Segmentos"      # Project title
   author:       "Juan Sifuentes Mijares"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Decodificador 7 segmentos"      # One line description of what your project does
